@@ -25,10 +25,15 @@ Enter country name: United States of America
 # Output
 United States of America Country Object
 
+
 Country Name: United States of America
+
 Capital: Washington, D.C.
+
 Region: Americas
+
 Sub Region: Northern America
+
 Population: 323947000
 
 United States of America Currencies Object
@@ -36,15 +41,22 @@ United States of America Currencies Object
 
 Currency
 
+
 Code: USD
+
 Name: United States dollar
+
 Symbol: $
 
 United States of America Languages Object
 
 Language
 
+
 Name: English
+
 Native Name: English
+
 ISO 639 1: en
+
 ISO 639 2: eng
