@@ -1,5 +1,5 @@
 # CountryDataReader
-A desktop application that reads JSON and XML files.
+A desktop application that reads JSON and XML files that store country data sets.
 
 # Getting Started
 A JSON country data set is stored in the bin/debug folder. The filename is countries.json. Choose option 1 and type countries.json. After reading the file you can now use options 3-7. See below for option details.
