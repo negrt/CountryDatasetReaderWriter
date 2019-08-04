@@ -15,8 +15,11 @@ A JSON country data set is stored in the bin/debug folder. The filename is count
 
 # Input
 Enter Choice: 1
+
 Enter filename: countries.json
+
 Enter Choice: 6
+
 Enter country name: United States of America
 
 # Output
