@@ -1,4 +1,4 @@
-# CountryDatasetReader
+# CountryDatasetReaderWriter
 A desktop application that reads JSON and XML files that store country data sets.
 
 # Getting Started
